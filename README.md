@@ -1,5 +1,5 @@
 # shootyepgp
-Guild Helper addon for EPGP loot system in WoW (1.12)
+Phoenix Rising Guild Helper addon for EPGP loot system in WoW (1.12)
 
 ## setup
 shootyepgp requires some modifications to guild permissions for officer notes by the guild leader.  
